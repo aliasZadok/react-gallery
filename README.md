@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/262fe454-c17e-4c8b-a885-e5ee5718f639/deploy-status)](https://app.netlify.com/sites/react-gallery-aliaszadok/deploys)
+
+[Live link](https://react-gallery-aliaszadok.netlify.com)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
